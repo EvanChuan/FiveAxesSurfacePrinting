@@ -1,0 +1,1 @@
+testarray = zeros(1,3,16)
